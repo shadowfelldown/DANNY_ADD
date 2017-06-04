@@ -1,7 +1,10 @@
 #include "FastLED.h"
 
 FASTLED_USING_NAMESPACE
+/***TODO:
+1. divide outside and inside into component parts. 16 out 7in
 
+*/
 // FastLED "100-lines-of-code" demo reel, showing just a few 
 // of the kinds of animation patterns you can quickly and easily 
 // compose using FastLED.  
